@@ -1,0 +1,28 @@
+{
+  "name": "pineapple-ui",
+  "version": "0.0.4",
+  "files": [
+    "dist/lib/*"
+  ],
+  "main": "dist/lib/pineapple.js",
+  "module": "dist/lib/pineapple.esm.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "resolutions": {
+    "node-sass": "npm:sass@^1.26.11"
+  },
+  "dependencies": {
+    "github-markdown-css": "^4.0.0",
+    "marked": "^1.1.1",
+    "prismjs": "^1.21.0",
+    "vue": "^3.0.0",
+    "vue-router": "4.0.0-beta.3"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.0",
+    "sass": "^1.26.11",
+    "vite": "^1.0.0-rc.1"
+  }
+}
