@@ -1,6 +1,6 @@
 # pineapple UI for Vue 3
 
-[点击查看官网](https://frankfang.gitee.io/pineapple-ui-website/#/)
+[点击查看官网](https://centaurusr.github.io/Pineapple-UI/index.html#/)
 
 ## 运行步骤
 
